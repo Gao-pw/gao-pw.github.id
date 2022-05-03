@@ -1,6 +1,6 @@
 ---
 title: 剑指offer 03 数组中重复的数字
-date: 2022-05-03
+date: 2022-05-01
 tags: 剑指offer
 categories: 夜深人静写算法
 ---
