@@ -23,3 +23,11 @@ post_meta:
   updated_at: false
   categories: true
   tags: true
+footer:
+  support:
+    enable: true
+    title: 又拍云
+    link: https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral
+    logo: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/logo/upyun-logo.png
+    prefix: 本网站由
+    suffix: 提供 CDN 加速

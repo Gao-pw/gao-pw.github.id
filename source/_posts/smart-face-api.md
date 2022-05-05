@@ -4,7 +4,7 @@ date: 2022-05-04
 tags: 机器学习
 categories: 慌慌张张跑代码
 ---
-> 写在前面  [face-api.js](https://github.com/Gao-pw/face-api.js)
+> 写在前面  
 
 OK，在好多`后端`同学眼里，`JavaScript`就是个垃圾，要计算精度不够，要写业务这货的`this`特别奇怪，按我导的思想：JavaScript能显示字符串就行。
 
