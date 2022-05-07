@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: siroi的记忆
 subtitle: ''
 description: ''
 keywords:
@@ -103,3 +103,9 @@ deploy:
 - type: 'git'
   repo: 'git@github.com:Gao-pw/gao-pw.github.io.git'
   branch: 'master'
+
+aplayer:
+  cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js
+  style_cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css
+  meting: true
+  meting_cdn: https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js
